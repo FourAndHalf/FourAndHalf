@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jinsoneb@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MWv0vtTjwFZ4rG909OHIBd4tWwxBK5ZT/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1seEANRlINW_N61rOxqHs4_JuhnWsOA41/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

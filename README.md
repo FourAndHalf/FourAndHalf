@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **RUST**
 
-- 💬 Ask me about **Firebase and MERN**
+- 💬 Ask me about **C# and Angular**
 
 - 📫 How to reach me **jinsoneb@gmail.com**
 

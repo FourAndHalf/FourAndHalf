@@ -31,6 +31,5 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fourandhalf&show_icons=true&locale=en&layout=compact" alt="fourandhalf" />
-  <img src="https://github-readme-stats.vercel.app/api?username=fourandhalf&show_icons=true&theme=default" alt="GitHub Stats" visible="false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fourandhalf&theme=default" alt="GitHub Streak" />
 </p>

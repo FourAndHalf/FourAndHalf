@@ -6,14 +6,14 @@
 ### 👨‍💻 About Me  
 - 🚀 Full Stack Engineer with **2+ years of experience** in building secure & scalable web apps  
 - 💻 Skilled in **.NET Core, Angular, C#, TypeScript, Oracle, Docker, AWS**  
-- 🌱 Currently exploring **Rust & Next.js**  
+- 🌱 Currently exploring **Golang & Next.js**  
 - 🛠 Strong in **API design, system optimization, and CI/CD pipelines**  
 - 📫 Reach me at: **jinsoneb@gmail.com**  
 
 ---
 
 ### 🔧 Tech Stack  
-**Languages:** C#, TypeScript, JavaScript, Rust  
+**Languages:** C#, TypeScript, JavaScript, Golang  
 **Frontend:** Angular, Next.js, HTML, CSS, Bootstrap  
 **Backend:** .NET Core, .NET Framework, REST APIs  
 **Databases:** Oracle, Firebase, Redis  

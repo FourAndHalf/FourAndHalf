@@ -17,7 +17,7 @@
 **Frontend:** Angular, Next.js, HTML, CSS, Bootstrap  
 **Backend:** .NET Core, .NET Framework, REST APIs  
 **Databases:** Oracle, Firebase, Redis  
-**Cloud & DevOps:** AWS, Docker, Git, GitHub, TFS  
+**Cloud & DevOps:** AWS, Docker, Git, GitHub
 
 ---
 

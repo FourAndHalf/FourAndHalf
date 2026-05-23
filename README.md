@@ -21,16 +21,16 @@ I enjoy working on:
 ## Core Stack
 
 **Backend**
-- .NET Core
+- GoLang
 - Python (FastAPI)
 - REST APIs
 - Event-Driven Architecture
 - RabbitMQ
 
 **AI & Automation**
-- Google ADK
-- Gemini API
-- LangChain
+- Apache Airflow
+- QWEN / BAAI / Gemini / OpenAI models
+- LangChain / Custom orchestration
 - LLM Orchestration
 
 **Cloud & DevOps**
@@ -40,6 +40,7 @@ I enjoy working on:
 
 **Databases**
 - Oracle
+- ChromaDB
 - Redis
 
 ---

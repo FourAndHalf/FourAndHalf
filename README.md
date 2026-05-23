@@ -22,6 +22,7 @@ I enjoy working on:
 
 **Backend**
 - GoLang
+- .NET Core
 - Python (FastAPI)
 - REST APIs
 - Event-Driven Architecture

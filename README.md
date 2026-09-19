@@ -1,6 +1,6 @@
 <h1 align="center">Jinson E B</h1>
 <p align="center">
-Backend Systems Engineer • AI Automation • Distributed Systems
+Backend Systems Engineer • AI Automation • Distributed Systems • Architecting Systems
 </p>
 
 ---
